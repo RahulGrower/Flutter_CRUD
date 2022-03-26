@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804631003168",
+    "project_id": "crud-rahul",
+    "storage_bucket": "crud-rahul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804631003168:android:79860c48000c07ce167c45",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fbfirestore_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804631003168-6aqntkb5d90f5lt2iuc3udguih8vvdgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAPWzoRwGON8U4d0eyuWPjKidTkOSC1qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804631003168-6aqntkb5d90f5lt2iuc3udguih8vvdgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
